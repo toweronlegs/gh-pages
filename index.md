@@ -1,9 +1,9 @@
-### ivan gamaz 20088 best games
+### Tower on legs - developing independent board and video games. Башенка на ножках- разработка настольных и видео игр.
 You can use the [editor on GitHub](https://github.com/toweronlegs/gh-pages/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### lurkmore masster
+### С 2016 года я занимаюсь разработкой настольных и видео-игр.
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
